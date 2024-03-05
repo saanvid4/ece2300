@@ -1,0 +1,232 @@
+# Reading C:/programs/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do lab3_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/programs/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/lab3_top.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:47 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/lab3_top.v 
+# -- Compiling module lab3_top
+# 
+# Top level modules:
+# 	lab3_top
+# End time: 17:31:47 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/lab3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:47 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/lab3.v 
+# -- Compiling module lab3
+# 
+# Top level modules:
+# 	lab3
+# End time: 17:31:47 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/prandom.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:47 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/prandom.v 
+# -- Compiling module prandom
+# 
+# Top level modules:
+# 	prandom
+# End time: 17:31:47 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/hex_to_seven_seg.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:48 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/hex_to_seven_seg.v 
+# -- Compiling module hex_to_seven_seg
+# 
+# Top level modules:
+# 	hex_to_seven_seg
+# End time: 17:31:48 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/var_clk.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:48 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/var_clk.v 
+# -- Compiling module var_clk
+# -- Compiling module pclock
+# 
+# Top level modules:
+# 	var_clk
+# End time: 17:31:48 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/countdown.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:48 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/countdown.v 
+# -- Compiling module countdown
+# 
+# Top level modules:
+# 	countdown
+# End time: 17:31:48 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/address_generator.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:48 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/address_generator.v 
+# -- Compiling module address_generator
+# 
+# Top level modules:
+# 	address_generator
+# End time: 17:31:48 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/counter4bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:48 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/counter4bit.v 
+# -- Compiling module counter4bit
+# 
+# Top level modules:
+# 	counter4bit
+# End time: 17:31:48 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3 {C:/Users/jml557/Downloads/lab3/lab3/lab3_test.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:31:48 on Oct 17,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/jml557/Downloads/lab3/lab3" C:/Users/jml557/Downloads/lab3/lab3/lab3_test.v 
+# -- Compiling module lab3_test
+# 
+# Top level modules:
+# 	lab3_test
+# End time: 17:31:48 on Oct 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  lab3_test
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" lab3_test 
+# Start time: 17:31:48 on Oct 17,2023
+# Loading work.lab3_test
+# Loading work.lab3
+# Loading work.address_generator
+# Loading work.prandom
+# Loading work.countdown
+# Loading work.counter4bit
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# MSIM>
+# MSIM> ===============================================================
+# MSIM>
+# MSIM> PART B LAB TEST CASES
+# MSIM>
+# MSIM> ===============================================================
+# MSIM>
+# MSIM> 
+# MSIM> TEST 1: REGULAR GAME A WINS
+# MSIM> ===========================
+# MSIM> 
+# MSIM> Reset is correct. Reading delay of 200 (DATA at ADDRESS 000) correctly from prandom. STATE =  0, SIGNAL = 0, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 200 cycles...
+# MSIM> Correctly signaled after 200-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly waiting while signaling. STATE =  3, SIGNAL = 1, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Advancing 10 cycles to skip to just after end of false start period...
+# MSIM> Correctly gave point to Player A when button pressed after false start period passes. STATE = 12, SIGNAL = 1, SCORE_A = 1, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Waiting after end of round is correct. Reading delay of 200 (DATA at ADDRESS 000) correctly from prandom. STATE = 12, SIGNAL = 1, SCORE_A = 1, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Waiting after end of round is correct. Reading delay of 700 (DATA at ADDRESS 001) correctly from prandom. STATE = 12, SIGNAL = 1, SCORE_A = 1, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Waiting after end of round is correct. Reading delay of 350 (DATA at ADDRESS 010) correctly from prandom. STATE = 12, SIGNAL = 1, SCORE_A = 1, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 1, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 350 cycles...
+# MSIM> Correctly signaled after 350-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 1, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly waiting while signaling. STATE =  3, SIGNAL = 1, SCORE_A = 1, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Advancing 20 cycles to skip false start period...
+# MSIM> Correctly gave point to Player B when button pressed after false start period passes. STATE = 12, SIGNAL = 1, SCORE_A = 1, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Transition after next is correct. STATE =  1, SIGNAL = 0, SCORE_A = 1, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 698 cycles...
+# MSIM> Correctly signaled after 700-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 1, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Advancing 10 cycles to skip false start period...
+# MSIM> Correctly gave point to Player A when button pressed by both A and B after false start period passes. STATE = 12, SIGNAL = 1, SCORE_A = 2, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Pressing PLAYER_A after end of round correctly has no effect. STATE = 12, SIGNAL = 1, SCORE_A = 2, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Pressing PLAYER_B after end of round correctly has no effect. STATE = 12, SIGNAL = 1, SCORE_A = 2, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Fast-forwarding...
+# MSIM> Correctly signaled after waiting. STATE =  6, SIGNAL = 1, SCORE_A = 2, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly gave point to Player A when button pressed after false start period passes. STATE = 12, SIGNAL = 1, SCORE_A = 3, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly gave point to Player A when button pressed after false start period passes. STATE = 12, SIGNAL = 1, SCORE_A = 4, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly declared Player A the winner. STATE = 13, SIGNAL = 0, SCORE_A = 5, SCORE_B = 1, WINNER = a, FALSE_START = 0
+# MSIM> Pressing NEXT after end of game correctly has no effect. STATE = 13, SIGNAL = 0, SCORE_A = 5, SCORE_B = 1, WINNER = a, FALSE_START = 0
+# MSIM> Pressing PLAYER_A after end of game correctly has no effect. STATE = 13, SIGNAL = 0, SCORE_A = 5, SCORE_B = 1, WINNER = a, FALSE_START = 0
+# MSIM> Pressing PLAYER_B after end of game correctly has no effect. STATE = 13, SIGNAL = 0, SCORE_A = 5, SCORE_B = 1, WINNER = a, FALSE_START = 0
+# MSIM> 
+# MSIM> TEST 2: FALSE STARTS B WINS
+# MSIM> ============================
+# MSIM> 
+# MSIM> Reset is correct. Reading delay of 200 (DATA at ADDRESS 000) correctly from prandom. STATE =  0, SIGNAL = 0, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Waiting after reset is correct. Reading delay of 700 (DATA at ADDRESS 001) correctly from prandom. STATE =  0, SIGNAL = 0, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 700 cycles (but will false start immediately)...
+# MSIM> Correctly gave point to Player B when both false start during initial countdown. STATE =  9, SIGNAL = 1, SCORE_A = 0, SCORE_B = 1, WINNER = 0, FALSE_START = 1
+# MSIM> Waiting after end of round is correct. STATE =  9, SIGNAL = 1, SCORE_A = 0, SCORE_B = 1, WINNER = 0, FALSE_START = 1
+# MSIM> Pressing PLAYER_A after end of round correctly has no effect. STATE =  9, SIGNAL = 1, SCORE_A = 0, SCORE_B = 1, WINNER = 0, FALSE_START = 1
+# MSIM> Pressing PLAYER_B after end of round correctly has no effect. STATE =  9, SIGNAL = 1, SCORE_A = 0, SCORE_B = 1, WINNER = 0, FALSE_START = 1
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 0, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 200 cycles...
+# MSIM> Correctly stay in state until timer is done. STATE =  1, SIGNAL = 0, SCORE_A = 0, SCORE_B = 1, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly gave point to Player B when Player A false started right before signal. STATE =  9, SIGNAL = 1, SCORE_A = 0, SCORE_B = 2, WINNER = 0, FALSE_START = 1
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 0, SCORE_B = 2, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 500 cycles...
+# MSIM> Correctly signaled after 500-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 0, SCORE_B = 2, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly gave point to Player A when Player B false started during right after signal. STATE =  9, SIGNAL = 1, SCORE_A = 1, SCORE_B = 2, WINNER = 0, FALSE_START = 1
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 1, SCORE_B = 2, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 500 cycles...
+# MSIM> Correctly signaled after 500-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 1, SCORE_B = 2, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly gave point to Player B when both false started during right after signal. STATE =  9, SIGNAL = 1, SCORE_A = 1, SCORE_B = 3, WINNER = 0, FALSE_START = 1
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 1, SCORE_B = 3, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 500 cycles...
+# MSIM> Correctly signaled after 500-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 1, SCORE_B = 3, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly waiting while signaling. STATE =  3, SIGNAL = 1, SCORE_A = 1, SCORE_B = 3, WINNER = 0, FALSE_START = 0
+# MSIM> Advancing 8 cycles so that we are still in the false start period...
+# MSIM> Correctly stay in state until timer is done. STATE =  3, SIGNAL = 1, SCORE_A = 1, SCORE_B = 3, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly gave point to Player A when Player B false started during after signal. STATE =  9, SIGNAL = 1, SCORE_A = 2, SCORE_B = 3, WINNER = 0, FALSE_START = 1
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 2, SCORE_B = 3, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 650 cycles...
+# MSIM> Correctly signaled after 650-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 2, SCORE_B = 3, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly waiting while signaling. STATE =  3, SIGNAL = 1, SCORE_A = 2, SCORE_B = 3, WINNER = 0, FALSE_START = 0
+# MSIM> Advancing 9 cycles so that we are no longer in the false start period...
+# MSIM> Correctly waiting while signaling. STATE =  6, SIGNAL = 1, SCORE_A = 2, SCORE_B = 3, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly gave point to Player B for pressing button during regular period. STATE = 12, SIGNAL = 1, SCORE_A = 2, SCORE_B = 4, WINNER = 0, FALSE_START = 0
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 2, SCORE_B = 4, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 650 cycles...
+# MSIM> Correctly signaled after 650-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 2, SCORE_B = 4, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly waiting while signaling. STATE =  3, SIGNAL = 1, SCORE_A = 2, SCORE_B = 4, WINNER = 0, FALSE_START = 0
+# MSIM> Advancing 5 cycles so that we are still in the false start period...
+# MSIM> Correctly gave win to Player B after both players tied and false started. STATE = 11, SIGNAL = 0, SCORE_A = 2, SCORE_B = 5, WINNER = b, FALSE_START = 1
+# MSIM> Pressing NEXT after end of game correctly has no effect. STATE = 11, SIGNAL = 0, SCORE_A = 2, SCORE_B = 5, WINNER = b, FALSE_START = 1
+# MSIM> Pressing PLAYER_A after end of game correctly has no effect. STATE = 11, SIGNAL = 0, SCORE_A = 2, SCORE_B = 5, WINNER = b, FALSE_START = 1
+# MSIM> Pressing PLAYER_B after end of game correctly has no effect. STATE = 11, SIGNAL = 0, SCORE_A = 2, SCORE_B = 5, WINNER = b, FALSE_START = 1
+# MSIM> 
+# MSIM> TEST 3: HOLDING DOWN NEXT, RESET IN THE MIDDLE
+# MSIM> ==============================================
+# MSIM> 
+# MSIM> Reset is correct. Reading delay of 200 (DATA at ADDRESS 000) correctly from prandom. STATE =  0, SIGNAL = 0, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Asserting active-low NEXT advances states correctly. STATE =  1, SIGNAL = 0, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Beginning to countdown for 200 cycles...
+# MSIM> Correctly signaled after 200-cycle countdown. STATE =  2, SIGNAL = 1, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Correctly waiting while signaling. STATE =  3, SIGNAL = 1, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> Advancing 10 cycles to skip to just after end of false start period...
+# MSIM> Scores currently non-zero. SCORE_A = 2, SCORE_B = 0, WINNER = 0, FALSE_START = 1
+# MSIM> Reset is correct, including blanking scores. Reading delay of 200 (DATA at ADDRESS 000) correctly from prandom. STATE =  0, SIGNAL = 0, SCORE_A = 0, SCORE_B = 0, WINNER = 0, FALSE_START = 0
+# MSIM> 
+# MSIM> FSM IS CORRECT        o   o
+# MSIM> All checks passed!      |  
+# MSIM>                       \___/
+# MSIM> 
+# ** Note: $stop    : C:/Users/jml557/Downloads/lab3/lab3/lab3_test.v(1362)
+#    Time: 549925 ns  Iteration: 0  Instance: /lab3_test
+# Break in Module lab3_test at C:/Users/jml557/Downloads/lab3/lab3/lab3_test.v line 1362
+# End time: 17:37:13 on Oct 17,2023, Elapsed time: 0:05:25
+# Errors: 0, Warnings: 0

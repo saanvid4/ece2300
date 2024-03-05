@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/jml557/Downloads/lab3/lab3/simulation/modelsim
+vaddress_generator
+Z1 !s110 1697578308
+!i10b 1
+!s100 ekPUdBVEiR`ZKElgZL8<l2
+If<8VQiP6S<;Fa^IPXLo[N2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1695684885
+8C:/Users/jml557/Downloads/lab3/lab3/address_generator.v
+FC:/Users/jml557/Downloads/lab3/lab3/address_generator.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1697578308.000000
+!s107 C:/Users/jml557/Downloads/lab3/lab3/address_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/address_generator.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/jml557/Downloads/lab3/lab3
+Z8 tCvgOpt 0
+vcountdown
+R1
+!i10b 1
+!s100 2fSR7g21OY^H2A3eOmVjK2
+IeEVZIoCaGoB@E=0oYIlFf3
+R2
+R0
+R3
+8C:/Users/jml557/Downloads/lab3/lab3/countdown.v
+FC:/Users/jml557/Downloads/lab3/lab3/countdown.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jml557/Downloads/lab3/lab3/countdown.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/countdown.v|
+!i113 1
+R6
+R7
+R8
+vcounter4bit
+R1
+!i10b 1
+!s100 F3fA=P@gRG4:?SjXdMGm@0
+IKz:[DZ@?W7bi6Oe0kV]772
+R2
+R0
+w1697503511
+8C:/Users/jml557/Downloads/lab3/lab3/counter4bit.v
+FC:/Users/jml557/Downloads/lab3/lab3/counter4bit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jml557/Downloads/lab3/lab3/counter4bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/counter4bit.v|
+!i113 1
+R6
+R7
+R8
+vhex_to_seven_seg
+R1
+!i10b 1
+!s100 z2TcE6meRTHGZgT9Ik5Qd1
+ICa1gQc1`Xne_fWfe<?ijM1
+R2
+R0
+R3
+8C:/Users/jml557/Downloads/lab3/lab3/hex_to_seven_seg.v
+FC:/Users/jml557/Downloads/lab3/lab3/hex_to_seven_seg.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jml557/Downloads/lab3/lab3/hex_to_seven_seg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/hex_to_seven_seg.v|
+!i113 1
+R6
+R7
+R8
+vlab3
+Z9 !s110 1697578307
+!i10b 1
+!s100 `MIBbjG5jecQVTKc2:R^g0
+I2aIPK4PCXz5>hHNdhOfNX0
+R2
+R0
+w1697578291
+8C:/Users/jml557/Downloads/lab3/lab3/lab3.v
+FC:/Users/jml557/Downloads/lab3/lab3/lab3.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z10 !s108 1697578307.000000
+!s107 C:/Users/jml557/Downloads/lab3/lab3/lab3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/lab3.v|
+!i113 1
+R6
+R7
+R8
+vlab3_test
+R1
+!i10b 1
+!s100 Q<oc=OLi>M9mJ3jlAK=VF3
+Izhe9D^EBkR^kh<=ieZ:@L2
+R2
+R0
+w1697506771
+8C:/Users/jml557/Downloads/lab3/lab3/lab3_test.v
+FC:/Users/jml557/Downloads/lab3/lab3/lab3_test.v
+L0 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jml557/Downloads/lab3/lab3/lab3_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/lab3_test.v|
+!i113 1
+R6
+R7
+R8
+vlab3_top
+R9
+!i10b 1
+!s100 n0j6F`_VR6bGzFP;hY8a91
+IdEbjYHNM>ehU=INAC1Q0]2
+R2
+R0
+R3
+8C:/Users/jml557/Downloads/lab3/lab3/lab3_top.v
+FC:/Users/jml557/Downloads/lab3/lab3/lab3_top.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jml557/Downloads/lab3/lab3/lab3_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/lab3_top.v|
+!i113 1
+R6
+R7
+R8
+vpclock
+R1
+!i10b 1
+!s100 EPlXfd:527MPMo[V9h^Jj0
+I=nCa0H:;BbMdN4nGl<9?O2
+R2
+R0
+R3
+Z11 8C:/Users/jml557/Downloads/lab3/lab3/var_clk.v
+Z12 FC:/Users/jml557/Downloads/lab3/lab3/var_clk.v
+L0 53
+R4
+r1
+!s85 0
+31
+R5
+Z13 !s107 C:/Users/jml557/Downloads/lab3/lab3/var_clk.v|
+Z14 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/var_clk.v|
+!i113 1
+R6
+R7
+R8
+vprandom
+R9
+!i10b 1
+!s100 ]n<dSM5e0VWfTjLiB;QkD2
+If;HZEKYBUFH;hRhFZR3SV0
+R2
+R0
+R3
+8C:/Users/jml557/Downloads/lab3/lab3/prandom.v
+FC:/Users/jml557/Downloads/lab3/lab3/prandom.v
+L0 2
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jml557/Downloads/lab3/lab3/prandom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/jml557/Downloads/lab3/lab3|C:/Users/jml557/Downloads/lab3/lab3/prandom.v|
+!i113 1
+R6
+R7
+R8
+vvar_clk
+R1
+!i10b 1
+!s100 m1jAfPXIX>BEV=TR2]eH00
+I7>PJ?7?V`3`1;i5dEUGKX3
+R2
+R0
+R3
+R11
+R12
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R13
+R14
+!i113 1
+R6
+R7
+R8
