@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'var_clk:clockGenerator|var_clock'
+Slack : -2.786
+TNS   : -83.083
+
+Type  : Slow 1100mV 85C Model Setup 'CLK50'
+Slack : -2.530
+TNS   : -115.323
+
+Type  : Slow 1100mV 85C Model Hold 'CLK50'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'var_clk:clockGenerator|var_clock'
+Slack : 0.750
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLK50'
+Slack : -0.705
+TNS   : -52.022
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'var_clk:clockGenerator|var_clock'
+Slack : -0.538
+TNS   : -30.483
+
+Type  : Slow 1100mV 0C Model Setup 'var_clk:clockGenerator|var_clock'
+Slack : -2.826
+TNS   : -82.670
+
+Type  : Slow 1100mV 0C Model Setup 'CLK50'
+Slack : -2.544
+TNS   : -114.502
+
+Type  : Slow 1100mV 0C Model Hold 'CLK50'
+Slack : 0.330
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'var_clk:clockGenerator|var_clock'
+Slack : 0.755
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLK50'
+Slack : -0.721
+TNS   : -45.937
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'var_clk:clockGenerator|var_clock'
+Slack : -0.538
+TNS   : -29.933
+
+Type  : Fast 1100mV 85C Model Setup 'var_clk:clockGenerator|var_clock'
+Slack : -1.283
+TNS   : -32.318
+
+Type  : Fast 1100mV 85C Model Setup 'CLK50'
+Slack : -0.864
+TNS   : -26.851
+
+Type  : Fast 1100mV 85C Model Hold 'CLK50'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'var_clk:clockGenerator|var_clock'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLK50'
+Slack : -0.777
+TNS   : -27.757
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'var_clk:clockGenerator|var_clock'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'var_clk:clockGenerator|var_clock'
+Slack : -1.092
+TNS   : -27.414
+
+Type  : Fast 1100mV 0C Model Setup 'CLK50'
+Slack : -0.822
+TNS   : -21.424
+
+Type  : Fast 1100mV 0C Model Hold 'CLK50'
+Slack : 0.167
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'var_clk:clockGenerator|var_clock'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLK50'
+Slack : -0.787
+TNS   : -32.845
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'var_clk:clockGenerator|var_clock'
+Slack : 0.061
+TNS   : 0.000
+
+------------------------------------------------------------

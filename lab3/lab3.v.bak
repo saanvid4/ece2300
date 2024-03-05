@@ -1,0 +1,26 @@
+// Provided for ECE 2300 Lab 3
+module lab3(CLK, RESET, NEXT, PLAYER_A, PLAYER_B, TEST_LOAD, SIGNAL, SCORE_A, SCORE_B, WINNER, STATE, FALSE_START, ADDRESS, DATA);
+  input         CLK;
+  input         RESET;
+  input         NEXT;
+  input         PLAYER_A;
+  input         PLAYER_B;
+  input         TEST_LOAD;
+
+  output        SIGNAL;
+  output [3:0]  SCORE_A;
+  output [3:0]  SCORE_B;
+  output [3:0]  WINNER;
+  output [3:0]  STATE;
+  output        FALSE_START;
+  output [2:0]  ADDRESS;
+  output [9:0]  DATA;
+    
+  reg    [3:0]  STATE;
+
+  // ADD YOUR CODE BELOW THIS LINE
+  
+ 
+  // ADD YOUR CODE ABOVE THIS LINE
+
+endmodule
