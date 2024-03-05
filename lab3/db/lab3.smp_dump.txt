@@ -1,0 +1,18 @@
+
+State Machine - |lab3_top|lab3:theLab|SCURR
+Name SCURR.b_normal_win SCURR.a_normal_win SCURR.normal_win SCURR.b_false_win SCURR.a_false_win SCURR.false_win SCURR.b_won SCURR.a_won SCURR.ready SCURR.b_false SCURR.a_false SCURR.countdown SCURR.led SCURR.start SCURR.init 
+SCURR.init 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+SCURR.start 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+SCURR.led 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+SCURR.countdown 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+SCURR.a_false 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+SCURR.b_false 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+SCURR.ready 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+SCURR.a_won 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+SCURR.b_won 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+SCURR.false_win 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+SCURR.a_false_win 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+SCURR.b_false_win 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+SCURR.normal_win 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+SCURR.a_normal_win 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+SCURR.b_normal_win 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
